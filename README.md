@@ -141,10 +141,34 @@ If you find this project helpful, please give it a star! It helps others discove
 
 
 
+
+
+
+---
+
 ##  Screenshots
 
-| Main Menu | Gameplay | Checkmate |
-|:---:|:---:|:---:|
-| ![Menu](assets/Screenshot/WhatsApp Image 2025-12-27 at 10.37.49.jpeg) | ![Gameplay](assets/Screenshot/WhatsApp Image 2025-12-27 at 10.37.49 (1).jpeg) | ![Checkmate](assets/Screenshot/WhatsApp Image 2025-12-27 at 10.37.50.jpeg) |
+<div align="center">
 
-Experience the elegant interface and smooth gameplay of Chess Master Pro. From the intuitive main menu to strategic gameplay and victory screens, every aspect is designed with user experience in mind.
+### Main Menu
+![Main Menu](assets/screenshots/menu.jpg)
+
+### Gameplay
+![Gameplay](assets/screenshots/gameplay.jpg)
+
+### Checkmate
+![Checkmate](assets/screenshots/checkmate.jpg)
+
+</div>
+
+*Showcasing the clean interface and intuitive design of Chess Master Pro.*---
+
+<p align="center">
+  Made with  using Flutter by <strong>CodeDevPro</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Yash-007688"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="25"></a>
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" height="25"></a>
+  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" height="25"></a>
+</p>
