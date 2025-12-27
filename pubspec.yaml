@@ -1,8 +1,14 @@
 name: chess_game
 <<<<<<< HEAD
+<<<<<<< HEAD
 description: A sophisticated mobile chess game with AI opponent and multiplayer support, featuring realistic gameplay and beautiful UI design.
 # The following line prevents the package from being accidentally published to
 # pub.dev using lutter pub publish. This is preferred for private packages.
+=======
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+>>>>>>> f7de275fa4c7120e5ed1be401db7506cc1a27660
 =======
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
@@ -26,6 +32,7 @@ version: 1.0.1+2
 
 environment:
 <<<<<<< HEAD
+<<<<<<< HEAD
   sdk: '>=3.0.0 <4.0.0'
 
 # Dependencies specify other packages that your package needs in order to work.
@@ -35,6 +42,8 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run lutter pub outdated.
 =======
+=======
+>>>>>>> f7de275fa4c7120e5ed1be401db7506cc1a27660
   sdk: ^3.11.0-271.0.dev
 
 # Dependencies specify other packages that your package needs in order to work.
@@ -43,6 +52,9 @@ environment:
 # dependencies can be manually updated by changing the version numbers below to
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
+<<<<<<< HEAD
+>>>>>>> f7de275fa4c7120e5ed1be401db7506cc1a27660
+=======
 >>>>>>> f7de275fa4c7120e5ed1be401db7506cc1a27660
 dependencies:
   flutter:
@@ -59,7 +71,11 @@ dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
 <<<<<<< HEAD
+<<<<<<< HEAD
   # activated in the nalysis_options.yaml file located at the root of your
+=======
+  # activated in the `analysis_options.yaml` file located at the root of your
+>>>>>>> f7de275fa4c7120e5ed1be401db7506cc1a27660
 =======
   # activated in the `analysis_options.yaml` file located at the root of your
 >>>>>>> f7de275fa4c7120e5ed1be401db7506cc1a27660
@@ -113,9 +129,15 @@ flutter:
 # Add the flutter launcher icons configuration here
 flutter_launcher_icons:
 <<<<<<< HEAD
+<<<<<<< HEAD
   android: 'launcher_icon'
   ios: true
   image_path: 'assets/images/chess_knight_logo.png'
+=======
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/chess_knight_logo.png"
+>>>>>>> f7de275fa4c7120e5ed1be401db7506cc1a27660
 =======
   android: "launcher_icon"
   ios: true

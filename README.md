@@ -9,7 +9,7 @@
 [![Stars](https://img.shields.io/github/stars/Yash-007688/chess-game-mobile?style=social)](https://github.com/Yash-007688/chess-game-mobile)
 [![Forks](https://img.shields.io/github/forks/Yash-007688/chess-game-mobile?style=social)](https://github.com/Yash-007688/chess-game-mobile)
 
-![Chess App Screenshot](https://github.com/user-attachments/assets/4a9f1f63-18d6-432d-b4c6-8b5a8eb29f2d)
+![Chess Game Gameplay](assets/Screenshot/WhatsApp Image 2025-12-27 at 10.37.49.jpeg)
 
 ##  Features
 
@@ -139,3 +139,12 @@ If you find this project helpful, please give it a star! It helps others discove
   <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" height="25"></a>
 </p>
 
+
+
+##  Screenshots
+
+| Main Menu | Gameplay | Checkmate |
+|:---:|:---:|:---:|
+| ![Menu](assets/Screenshot/WhatsApp Image 2025-12-27 at 10.37.49.jpeg) | ![Gameplay](assets/Screenshot/WhatsApp Image 2025-12-27 at 10.37.49 (1).jpeg) | ![Checkmate](assets/Screenshot/WhatsApp Image 2025-12-27 at 10.37.50.jpeg) |
+
+Experience the elegant interface and smooth gameplay of Chess Master Pro. From the intuitive main menu to strategic gameplay and victory screens, every aspect is designed with user experience in mind.
